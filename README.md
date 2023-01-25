@@ -31,7 +31,9 @@ with open('file1.txt','r') as f1:
 ```
 ### OUTPUT:
 ![output](./copy.png)
+
 ![output](./copy1.png)
+
 ![output](./copy2.png)
 
 ## RESULT:
